@@ -148,8 +148,6 @@ More info: https://ollama.com/blog/openai-compatibility
 - [Complete] Add support for semantic caching to improve response times
 - [Complete] Add support for dynamic and conditionally rendered UI components based on the user's query
 
-![Example](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN284d3p5azAyNHpubm9mb2F0cnB6MWdtcTdnd2Nkb2d1ZnRtMG0yYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OMpt8ZbBsjphZz6mue/giphy.gif)
-
 - [Completed] Add dark mode support based on the user's system preference
 
 ### Backend + Node Only Express API
