@@ -167,5 +167,3 @@ Contributions to the project are welcome. Feel free to fork the repository, make
 ## License
 
 This project is licensed under the MIT License.
-
-[![Star History Chart](https://api.star-history.com/svg?repos=developersdigest/llm-answer-engine&type=Date)](https://star-history.com/#developersdigest/llm-answer-engine&Date)
