@@ -2,23 +2,6 @@
 
 This repository contains the code and instructions needed to build a sophisticated answer engine that leverages the capabilities of [Groq](https://www.groq.com/), [Mistral AI's Mixtral](https://mistral.ai/news/mixtral-of-experts/), [Langchain.JS](https://js.langchain.com/docs/), [Brave Search](https://search.brave.com/), [Serper API](https://serper.dev/), and [OpenAI](https://openai.com/). Designed to efficiently return sources, answers, images, videos, and follow-up questions based on user queries, this project is an ideal starting point for developers interested in natural language processing and search technologies.
 
-## YouTube Tutorials
-
-<div style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://youtu.be/43ZCeBTcsS8">
-        <img src="https://img.youtube.com/vi/43ZCeBTcsS8/0.jpg" alt="Tutorial 2" style="width: 24%; height: auto;">
-    </a>
-    <a href="https://youtu.be/kFC-OWw7G8k">
-        <img src="https://img.youtube.com/vi/kFC-OWw7G8k/0.jpg" alt="Tutorial 1" style="width: 24%; height: auto;">
-    </a>
-    <a href="https://youtu.be/kV2U7ttqE-g">
-        <img src="https://img.youtube.com/vi/kV2U7ttqE-g/0.jpg" alt="Tutorial 3" style="width: 24%; height: auto;">
-    </a>
-    <a href="https://youtu.be/3_aNVu6EU3Y">
-        <img src="https://img.youtube.com/vi/3_aNVu6EU3Y/0.jpg" alt="Tutorial 4" style="width: 24%; height: auto;">
-    </a>
-</div>
-
 
 ## Technologies Used
 
@@ -55,15 +38,6 @@ This repository contains the code and instructions needed to build a sophisticat
 - **Groq API Key**: [Get your Groq API key here](https://console.groq.com/keys).
 - **Brave Search API Key**: [Obtain your Brave Search API key here](https://brave.com/search/api/).
 - **Serper API Key**: [Get your Serper API key here](https://serper.dev/).
-
-### Quick Clone and Deploy
-
-Simple, Easy, Fast and Free - deploy to vercel
-
-> Make Sure to fill all the API Keys required for the Installation.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdevelopersdigest%2Fllm-answer-engine&env=OPENAI_API_KEY,GROQ_API_KEY,BRAVE_SEARCH_API_KEY,SERPER_API&envDescription=ALL%20API%20KEYS%20are%20needed%20for%20this%20application.%20If%20you%20are%20not%20using%20OpenAI%20KEY%20and%20Using%20Groq%20Instead%2C%20then%20just%20enter%20a%20random%20string%20in%20the%20OpenAI%20Key%20section%20so%20it%20wont%20generate%20any%20error%20while%20building%20the%20project.&project-name=llm-answer-engine&repository-name=llm-answer-engine&skippable-integrations=1)
-
 
 
 ### Installation
@@ -180,11 +154,9 @@ More info: https://ollama.com/blog/openai-compatibility
 
 ### Backend + Node Only Express API
 
-[Watch the express tutorial here](https://youtu.be/43ZCeBTcsS8) for a detailed guide on setting up and running this project.
 In addition to the Next.JS version of the project, there is a backend only version that uses Node.js and Express. Which is located in the 'express-api' directory. This is a standalone version of the project that can be used as a reference for building a similar API. There is also a readme file in the 'express-api' directory that explains how to run the backend version.
 
 ### Upstash Redis Rate Limiting
-[Watch the Upstash Redis Rate Limiting tutorial here](https://youtu.be/3_aNVu6EU3Y) for a detailed guide on setting up and running this project.
 Upstash Redis Rate Limiting is a free tier service that allows you to set up rate limiting for your application. It provides a simple and easy-to-use interface for configuring and managing rate limits. With Upstash, you can easily set limits on the number of requests per user, IP address, or other criteria. This can help prevent abuse and ensure that your application is not overwhelmed with requests.
 
 ## Contributing
@@ -197,11 +169,3 @@ Contributions to the project are welcome. Feel free to fork the repository, make
 This project is licensed under the MIT License.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=developersdigest/llm-answer-engine&type=Date)](https://star-history.com/#developersdigest/llm-answer-engine&Date)
-
-I'm the developer behind Developers Digest. If you find my work helpful or enjoy what I do, consider supporting me. Here are a few ways you can do that:
-
-- **Patreon**: Support me on Patreon at [patreon.com/DevelopersDigest](https://www.patreon.com/DevelopersDigest)
-- **Buy Me A Coffee**: You can buy me a coffee at [buymeacoffee.com/developersdigest](https://www.buymeacoffee.com/developersdigest)
-- **Website**: Check out my website at [developersdigest.tech](https://developersdigest.tech)
-- **Github**: Follow me on GitHub at [github.com/developersdigest](https://github.com/developersdigest)
-- **Twitter**: Follow me on Twitter at [twitter.com/dev__digest](https://twitter.com/dev__digest)
