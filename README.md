@@ -1,20 +1,4 @@
-<h1 align="center">Perplexity-Inspired LLM Answer Engine</h1>
-<div>
-    <div align="center">
-        <a href="https://twitter.com/dev__digest">
-            <img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-        </a>
-        <a href="https://www.youtube.com/@developersdigest">
-            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-        </a>
-    </div>
-    <div align="center">
-    <a href="https://trendshift.io/repositories/8642" target="_blank"><img src="https://trendshift.io/api/badge/repositories/8642" alt="developersdigest%2Fllm-answer-engine | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-    </div>
-</div>
-<div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVodHcyZWd0MDJtd2RiN2xqbGdtOTdrYzZiMnhlMmZidDRzYm15dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PXkHjFlbgty03C6TAL/giphy.gif"><br>
-</div>
+<h1 align="center">Ask Alvi LLM Answer Engine</h1>
 
 This repository contains the code and instructions needed to build a sophisticated answer engine that leverages the capabilities of [Groq](https://www.groq.com/), [Mistral AI's Mixtral](https://mistral.ai/news/mixtral-of-experts/), [Langchain.JS](https://js.langchain.com/docs/), [Brave Search](https://search.brave.com/), [Serper API](https://serper.dev/), and [OpenAI](https://openai.com/). Designed to efficiently return sources, answers, images, videos, and follow-up questions based on user queries, this project is an ideal starting point for developers interested in natural language processing and search technologies.
 
