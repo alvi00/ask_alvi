@@ -1,3 +1,10 @@
+##Discord Bot - Repo
+- **[Click Here](https://github.com/alvi00/ask_alvi_discord)**
+
+##Telegram Bot - Repo
+- **[click here](https://github.com/alvi00/ask_alvi_tel)**
+
+
 <h1 align="center">Ask Alvi Search Engine</h1>
 
 
